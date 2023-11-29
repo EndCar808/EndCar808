@@ -9,5 +9,6 @@
 
 
 ## Research Projects
-My PhD research focused on modelling the dynamics of Fourier phases in minimal models for turbulence
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EndCar808&repo=3D_Navier_Stokes)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/EndCar808/3D_Navier_Stokes)https://github.com/EndCar808/3D_Navier_Stokes)
+My PhD research focused on modelling the dynamics of Fourier phases in minimal models for turbulence:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EndCar808&repo=3D_Navier_Stokes&bg_color=00000000)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/EndCar808/3D_Navier_Stokes)https://github.com/EndCar808/3D_Navier_Stokes)
