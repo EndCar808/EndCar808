@@ -5,7 +5,6 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EndCar808&show_icons=true&bg_color=00000000)
 
 
 ## Research Projects
@@ -13,3 +12,17 @@ My PhD research focused on modelling the dynamics of Fourier phases in minimal m
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EndCar808&repo=3D_Navier_Stokes&bg_color=00000000)](https://github.com/EndCar808/3D_Navier_Stokes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EndCar808&repo=2D_Burgers_Equation&bg_color=00000000)](https://github.com/EndCar808/2D_Burgers_Equation)
+
+
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EndCar808&show_icons=true&bg_color=00000000)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EndCar808&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EndCar808" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EndCar808&layout=compact&langs_count=8&card_width=320" />
+</a>
