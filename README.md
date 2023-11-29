@@ -20,5 +20,5 @@ My PhD research focused on modelling the dynamics of Fourier phases in minimal m
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EndCar808&bg_color=00000000" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EndCar808&bg_color=00000000&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EndCar808&bg_color=00000000&layout=compact&langs_count=8&card_width=320&hide=jupyter" />
 </a>
