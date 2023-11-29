@@ -17,7 +17,13 @@ My PhD research focused on modelling the dynamics of Fourier phases in minimal m
   <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EndCar808&repo=3D_Navier_Stokes&bg_color=00000000&icon_color=F8D866" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EndCar808&repo=2D_Burgers_Equation&bg_color=00000000&icon_color=F8D866&hide_border=true&show_icons=false" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EndCar808&repo=2D_Burgers_Equation&bg_color=00000000&icon_color=F8D866" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EndCar808&repo=cuThomasConstantBatch&bg_color=00000000&icon_color=F8D866" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EndCar808&repo=cuPentBatch&bg_color=00000000&icon_color=F8D866" />
 </a>
 
 ## Stats
