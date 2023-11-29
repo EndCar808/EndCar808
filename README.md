@@ -10,18 +10,19 @@
 ## Research Projects
 My PhD research focused on modelling the dynamics of Fourier phases in minimal models for turbulence:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EndCar808&repo=3D_Navier_Stokes&bg_color=00000000&icon_color=F8D866)](https://github.com/EndCar808/3D_Navier_Stokes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EndCar808&repo=2D_Burgers_Equation&bg_color=00000000)](https://github.com/EndCar808/2D_Burgers_Equation)
 
 <a href="https://github.com/EndCar808/3D_Navier_Stokes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EndCar808&repo=3D_Navier_Stokes&bg_color=00000000&icon_color=F8D866" />
 </a>
+
 <a href="https://github.com/EndCar808/2D_Burgers_Equation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EndCar808&repo=2D_Burgers_Equation&bg_color=00000000&icon_color=F8D866" />
 </a>
+
 <a href="https://github.com/EndCar808/cuThomasConstantBatch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EndCar808&repo=cuThomasConstantBatch&bg_color=00000000&icon_color=F8D866" />
 </a>
+
 <a href="https://github.com/EndCar808/cuPentBatch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EndCar808&repo=cuPentBatch&bg_color=00000000&icon_color=F8D866" />
 </a>
