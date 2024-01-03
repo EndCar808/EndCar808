@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enda</h1>
-<h3 align="center">An applied mathematician who likes to build things people enjoy!</h3>
+<h3 align="center">I am an applied mathematician who likes to build things people enjoy!</h3>
 
 ## Socials
 <p align="left">
